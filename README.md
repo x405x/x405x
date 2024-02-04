@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m x405x, nice to meet you.
-- 🔭 I’m currently working on [Generals.OI](https://github.com/Generals-OI/Generals.OI).
-- 👀 I’m looking for collaborate on [Generals.OI](https://github.com/Generals-OI/Generals.OI).
-- ✨ I'm interesting in coding.
+🌱 **I’m x405x, nice to meet you.**
   
 ![](https://skillicons.dev/icons?i=c,cpp,md,latex,bash,cmake,qt,vim,github,git,linux,aws)
 
